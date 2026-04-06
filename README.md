@@ -7,10 +7,7 @@
 
 ## Support
 
-If these self-hosted and infrastructure projects help your setup, you can
-support ongoing maintenance, release tracking, and documentation via
-[Ko-fi](https://ko-fi.com/smoochy) or
-[Buy Me a Coffee](https://www.buymeacoffee.com/smoochy84).
+If these self-hosted and infrastructure projects help your setup, you can support ongoing maintenance, release tracking, and documentation via [Coindrop](https://coindrop.to/smoochy), [Ko-fi](https://ko-fi.com/smoochy), or [Buy Me a Coffee](https://www.buymeacoffee.com/smoochy84).
 
 ## Year 2025 in Code
 
