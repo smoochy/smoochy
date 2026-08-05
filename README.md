@@ -1,5 +1,7 @@
 # smoochy
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=smoochy&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=smoochy&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
+
 ![GitHub profile details for smoochy][profile-details]
 
 ![GitHub stats for smoochy][stats]
